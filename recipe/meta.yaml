@@ -25,7 +25,6 @@ requirements:
 
 test:
   imports:
-    - opentelemetry_util_http
     - opentelemetry
     - opentelemetry.util
   commands:
