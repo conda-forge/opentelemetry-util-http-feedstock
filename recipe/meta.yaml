@@ -6,7 +6,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/opentelemetry-util-http-{{ version }}.tar.gz
+  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/opentelemetry_util_http-{{ version }}.tar.gz
   sha256: 8a38064a32a023ef2f1469c1a615461c4240fa99fd4ea9d0eef4d416af47ccaa
 
 build:
