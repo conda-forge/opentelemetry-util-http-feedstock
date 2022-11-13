@@ -18,12 +18,16 @@ requirements:
   host:
     - python >=3.7,<3.11
     - pip
+    - hatchling
   run:
     - python >=3.7,<3.11
+    - opentelemetry-api >=1.12,<2.dev0
 
 test:
   imports:
     - opentelemetry_util_http
+    - opentelemetry
+    - opentelemetry.util
   commands:
     - pip check
   requires:
