@@ -3,7 +3,7 @@ About opentelemetry-util-http-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-util-http-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/open-telemetry/opentelemetry-python-contrib/util/opentelemetry-util-http
+Home: https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/util/opentelemetry-util-http
 
 Package license: Apache-2.0
 
@@ -143,6 +143,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@conda-forge/opentelemetry-api](https://github.com/orgs/conda-forge/teams/opentelemetry-api/)
 * [@mariusvniekerk](https://github.com/mariusvniekerk/)
 * [@rxm7706](https://github.com/rxm7706/)
 
